@@ -1,4 +1,4 @@
-# Surfs_up_Challenge
+# How does weather in Hawaii impact consumer demand for food?
 
 ## Overview
 In this analysis, I analyzed weather patterns on the Island of Oahu for a client who was interested in opening a seasonal shop. Specifically, I focused on temperature data during the months of June and December to determine of food demand would be the same year-round. 
